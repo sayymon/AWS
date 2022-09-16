@@ -11,13 +11,13 @@ skinparam topurl https://plantuml.com/
 ***_ [[certifications/sysops-administrator <img:../icons/sysops-administrator.png>]]
 ***_ [[certifications/solutions-architect <img:../icons/solutions-architect.png>]]
 ** Professional
-*** DevOps Engineer
-*** Solutions Architect
+***_ [[certifications/solutions-architect-professional <img:../icons/solutions-architect-professional.png>]]
+***_ [[certifications/devops-engineer-professional <img:../icons/devops-engineer-professional.png>]]
 ** Specialist
-*** Advanced Networking
-*** Data Analytics
-*** Database
-*** Machine Learning
-*** Security
-*** Sap on AWS
+***_ [[certifications/advanced-networking <img:../icons/advanced-networking.png>]]
+***_ [[certifications/data-analytics <img:../icons/data-analytics.png>]]
+***_ [[certifications/database <img:../icons/database.png>]]
+***_ [[certifications/machine-learning <img:../icons/machine-learning.png>]]
+***_ [[certifications/security <img:../icons/security.png>]]
+***_ [[certifications/sap-on-aws <img:../icons/sap-on-aws.png>]] 
 @endwbs
