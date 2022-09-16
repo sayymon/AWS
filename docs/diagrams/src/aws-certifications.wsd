@@ -1,0 +1,23 @@
+@startwbs
+
+!theme aws-orange
+skinparam topurl https://plantuml.com/
+
+* AWS Certifications
+** Basic
+***_ [[certifications/cloud-practitioner <img:../icons/cloud-practitioner.png>]] 
+** Associate
+***_ [[certifications/developer-associate <img:../icons/developer-associate.png>]] 
+***_ [[certifications/sysops-administrator <img:../icons/sysops-administrator.png>]]
+***_ [[certifications/solutions-architect <img:../icons/solutions-architect.png>]]
+** Professional
+*** DevOps Engineer
+*** Solutions Architect
+** Specialist
+*** Advanced Networking
+*** Data Analytics
+*** Database
+*** Machine Learning
+*** Security
+*** Sap on AWS
+@endwbs
