@@ -1,0 +1,200 @@
+@startmindmap
+
+!theme aws-orange
+
+* AWS Certified Cloud Practitioner(CLF-C01)
+** Recommended Knowledge
+*** AWS Cloud Concepts
+*** Understanding Core AWS Services
+*** Understanding the Economics of the AWS Cloud
+** Domain Capabilities
+*** Cloud Concepts
+**** Security
+**** Reliability
+**** High Availability
+**** Elasticity
+**** Agility
+**** Pay as you go
+**** Scalability
+**** Global reach
+**** Economy of Scale
+*** Identifying aspects of the AWS Cloud economics
+**** Operational expenses(OpEx)
+**** Capital expenses(CapEx)
+**** Labor costs associated with on-premises operations
+**** Impact of software licensing costs when migrating to a cloud
+*** Reduced costs by migrating to the cloud
+**** Right-sized infrastructure
+**** Benefits of automation
+**** Reduction of the scope of compliance
+**** Managed Services
+*** Cloud architecture design
+**** Fail-safe design
+**** Decoupled architecture, microservices and the monolithic architecture
+**** Cloud elasticity compared to on-premises environment
+**** Thinking in Architectures and Parallel Design
+*** Security and compliance
+**** AWS shared responsibility model
+***** Elements of the shared responsibility model
+***** Customer responsibility on AWS
+***** AWS Responsibilities
+**** AWS Cloud security and compliance concepts
+***** Identifying where to find AWS compliance information
+***** Learn how customers achieve compliance on AWS
+***** Know about encryption responsibilities in AWS for a particular service
+***** Knowledge of audit services and reports
+***** Knowledge of least privilege access
+**** AWS Access Management
+***** User and identity management
+***** Access key and password policies
+***** Multi-factor authentication (MFA)
+***** AWS Identity and Access Management (IAM)
+***** Tasks that require the use of root accounts
+***** Root account protection
+**** Security Support Resources
+***** Native AWS services (e.g. security groups, Network ACLs, AWS WAF)
+***** Third-party security products on the AWS Marketplace
+***** Understanding the documentation and where to find it
+***** Security Checks are a Component of AWS Trusted Advisor
+*** Technologies
+**** Methods of deploying and operating in the AWS Cloud
+***** Programmatic Access
+***** APIs
+***** SDKs
+***** AWS Management Console
+***** CLI
+***** Infrastructure as code
+**** Cloud deployment models
+***** Fully cloud/cloud native
+***** Hybrid
+***** On-premises
+**** Connectivity options
+***** VPN
+***** AWS Direct Connect
+***** Public Internet
+**** AWS Global Infrastructure
+***** Regions
+****** Disaster Recovery/Business Continuity
+****** Low latency for end users
+****** Data sovereignty
+***** Availability zones
+***** Edge locations
+***** High Availability
+****** Mult-AZ
+**** Main AWS Services
+***** Computing
+****** Families
+****** AWS Lambda
+****** AWS ECS
+****** AWS EC2
+****** Load balancers
+***** Storage
+****** S3
+****** EBS
+****** S3 Glacier
+****** Snowball
+****** EFS
+****** Storage Gateway
+***** Network
+****** VPC
+****** Security groups
+****** Route 53
+****** VPN
+****** AWS Direct Connect
+***** Database
+****** Comparison to databases AWS managed with installed on EC2
+****** Amazon RDS
+****** Amazon DynamoDB
+****** Amazon Redshift
+***** Technological support
+****** Documentations 
+******* Best practices
+******* whitepapers
+******* forums
+******* blogs
+****** AWS support levels and scope
+***** Partner network
+*** Billing and pricing
+**** Pricing models
+***** On demand
+***** Reserved
+***** Spot
+**** Account structures
+**** Billing support
+** Main tools and technologies
+*** Analysis:
+**** Amazon Athena
+**** Amazon Kinesis
+**** Amazon QuickSight
+*** Application Integration
+**** Amazon Simple Notification Service (Amazon SNS)
+**** Amazon Simple Queue Service (Amazon SQS)
+*** Compute and serverless services
+**** AWS Batch
+**** Amazon EC2
+**** AWS Elastic Beanstalk
+**** AWS Lambda
+**** Amazon Lightsail
+**** Amazon WorkSpaces
+*** Containers:
+**** Amazon Elastic Container Service (Amazon ECS)
+**** Amazon Elastic Kubernetes Service (Amazon EKS)
+**** AWS Fargate
+*** Database
+**** Amazon Aurora
+**** Amazon DynamoDB
+**** Amazon ElastiCache
+**** Amazon RDS
+**** Amazon Redshift
+*** Developer tools
+**** AWS CodeBuild
+**** AWS CodeCommit
+**** AWS CodeDeploy
+**** AWS CodePipeline
+**** AWS CodeStar
+*** Interaction with customers:
+**** Amazon Connect
+*** Management, monitoring and governance:
+**** AWS Auto Scaling
+**** AWS Budgets
+**** AWS CloudFormation
+**** AWS CloudTrail
+**** Amazon CloudWatch
+**** AWSConfig
+**** AWS Cost and Usage Report
+**** Amazon EventBridge (Amazon CloudWatch Events)
+**** AWS License Manager
+**** AWS Managed Services
+**** AWS Organizations
+**** AWS Secrets Manager
+**** AWS Systems Manager
+**** AWS Systems Manager Parameter Store
+**** AWS Trusted Advisor
+*** Networks and content delivery:
+**** Amazon API Gateway
+**** Amazon CloudFront
+**** AWS Direct Connect
+**** Amazon Route 53
+**** Amazon VPC
+*** Security, identity and compliance:
+**** AWS Artifact
+**** AWS Certificate Manager (ACM)
+**** AWS CloudHSM
+**** Amazon Cognito
+**** Amazon Detective
+**** Amazon GuardDuty
+**** AWS Identity and Access Management (IAM)
+**** Amazon Inspector
+**** AWS License Manager
+**** Amazon Macie
+**** AWS Shield
+**** AWS WAF
+*** Storage
+**** AWS Backup
+**** Amazon Elastic Block Store (Amazon EBS)
+**** Amazon Elastic File System (Amazon EFS)
+**** Amazon S3
+**** Amazon S3 Glacier
+**** AWS Snowball Edge
+**** AWS Storage Gateway
+@endmindmap

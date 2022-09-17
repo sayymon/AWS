@@ -1,0 +1,21 @@
+# Certifications
+
+![Certifications](../docs/diagrams/out/aws-certifications/aws-certifications.png)
+
+ * [AWS Certifications]()
+     * [Basic]()
+         * [Cloud Praticioner](certifications/aws-cloud-practitioner.md)
+     * [Associate]()
+         * [Developer]()
+         * [SysOps Administrator]()
+         * [Solutions Architect]()
+     * [Professional]()
+         * [Solutions Architect]()
+         * [DevOps Engineer]()
+     * [Specialist]()
+         * [Advanced Networking]()
+         * [Data Analytics]()
+         * [Database]()
+         * [Machine Learning]()
+         * [Security]()
+         * [SAP on AWS]()
